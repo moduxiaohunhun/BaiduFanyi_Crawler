@@ -37,7 +37,7 @@ jobs:
       - name: Commit changes and Push
         env:
           GITHUB_LOGIN: ${{ github.actor }}
-          GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PERSONAL_TOKEN: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
         run: |
           if [[ `git status data --porcelain` ]]; then
             git add data
