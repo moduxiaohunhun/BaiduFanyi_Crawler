@@ -1,5 +1,44 @@
 [
   {
+    "word_name": "subscribe",
+    "word_means": [
+      "v.订阅;定期订购(或订阅等);定期交纳(会员费);定期(向慈善机构)捐款;定期捐助;认购(股份);申请"
+    ],
+    "updatetime": "2023-03-12 19:07:09",
+    "ph_en": "səbˈskraɪb",
+    "ph_am": "səbˈskraɪb"
+  },
+  {
+    "word_name": "peek",
+    "word_means": [
+      "vi.窥视;偷看;微露出;探出",
+      "n.偷看，窥视;一瞥，看一眼"
+    ],
+    "updatetime": "2023-03-12 19:07:00",
+    "ph_en": "piːk",
+    "ph_am": "piːk"
+  },
+  {
+    "word_name": "poll",
+    "word_means": [
+      "n.投票;民意调查;民意测验;选举投票;计票;投票数",
+      "v.获得(票数);对…进行民意调查",
+      "adj.当事人一方作成的"
+    ],
+    "updatetime": "2023-03-12 19:06:56",
+    "ph_en": "pəʊl",
+    "ph_am": "poʊl"
+  },
+  {
+    "word_name": "linear",
+    "word_means": [
+      "adj.线性的;直线的;线的;线状的;通过单独的若干阶段来发展;长度的"
+    ],
+    "updatetime": "2023-03-12 15:55:15",
+    "ph_en": "ˈlɪniə(r)",
+    "ph_am": "ˈlɪniər"
+  },
+  {
     "word_name": "quiet",
     "word_means": [
       "adj.轻声的;轻柔的;安静的;僻静的;寂静的;清静的;平静的;恬静的;寡言少语的;克制的",
