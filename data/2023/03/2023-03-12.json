@@ -1,0 +1,61 @@
+[
+  {
+    "word_name": "quiet",
+    "word_means": [
+      "adj.轻声的;轻柔的;安静的;僻静的;寂静的;清静的;平静的;恬静的;寡言少语的;克制的",
+      "n.宁静;寂静;平静;安静",
+      "v.(使)平静，安静"
+    ],
+    "updatetime": "2023-03-12 15:18:32",
+    "ph_en": "ˈkwaɪət",
+    "ph_am": "ˈkwaɪət"
+  },
+  {
+    "word_name": "identity",
+    "word_means": [
+      "n.身份;本身;本体;特征;特有的感觉(或信仰);同一性;相同;一致"
+    ],
+    "updatetime": "2023-03-12 15:03:24",
+    "ph_en": "aɪˈdentəti",
+    "ph_am": "aɪˈdentəti"
+  },
+  {
+    "word_name": "savoury",
+    "word_means": [
+      "adj.咸味的;咸口的;好吃的;好闻的;香的;美味的",
+      "n.(在聚会等活动中常吃的)咸味小吃"
+    ],
+    "updatetime": "2023-03-12 13:20:51",
+    "ph_en": "ˈseɪvəri",
+    "ph_am": "ˈseɪvəri"
+  },
+  {
+    "word_name": "buffet",
+    "word_means": [
+      "n.自助餐;(火车)饮食柜台;(车站)快餐部",
+      "vt.对…打来打去;将…推来搡去",
+      "adj.快餐式的"
+    ],
+    "updatetime": "2023-03-12 13:14:06",
+    "ph_en": "ˈbʌfeɪ , ˈbʌfɪt",
+    "ph_am": "bəˈfeɪ , ˈbʌfɪt"
+  },
+  {
+    "word_name": "functionality",
+    "word_means": [
+      "n.实用;符合实际;设计目的;设计功能;(计算机或电子系统的)功能"
+    ],
+    "updatetime": "2023-03-12 10:17:42",
+    "ph_en": "ˌfʌŋkʃəˈnæləti",
+    "ph_am": "ˌfʌŋkʃəˈnæləti"
+  },
+  {
+    "word_name": "atrocious",
+    "word_means": [
+      "adj.糟透的;十分讨厌的;残暴的;残忍的;凶恶的"
+    ],
+    "updatetime": "2023-03-12 10:16:46",
+    "ph_en": "əˈtrəʊʃəs",
+    "ph_am": "əˈtroʊʃəs"
+  }
+]
