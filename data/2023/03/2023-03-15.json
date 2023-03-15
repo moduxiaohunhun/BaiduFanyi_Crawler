@@ -1,0 +1,58 @@
+[
+  {
+    "word_name": "elevation of privilege",
+    "word_means": [
+      "特权提升"
+    ],
+    "updatetime": "2023-03-15 09:47:49",
+    "ph_en": "ˌelɪˈveɪʃn ɒv ˈprɪvəlɪdʒ",
+    "ph_am": "ˌelɪˈveɪʃn əv ˈprɪvəlɪdʒ"
+  },
+  {
+    "word_name": "denial of service",
+    "word_means": [
+      "拒绝服务"
+    ],
+    "updatetime": "2023-03-15 09:47:28",
+    "ph_en": "dɪˈnaɪəl ɒv ˈsɜːvɪs",
+    "ph_am": "dɪˈnaɪəl əv ˈsɜːrvɪs"
+  },
+  {
+    "word_name": "information disclosure",
+    "word_means": [
+      "信息披露"
+    ],
+    "updatetime": "2023-03-15 09:47:14",
+    "ph_en": "ˌɪnfəˈmeɪʃn dɪsˈkləʊʒə(r)",
+    "ph_am": "ˌɪnfərˈmeɪʃn dɪsˈkloʊʒər"
+  },
+  {
+    "word_name": "repudiation",
+    "word_means": [
+      "否认;抵赖;拒绝;拒绝履行;批判"
+    ],
+    "updatetime": "2023-03-15 09:47:01",
+    "ph_en": "rɪˌpjuːdɪˈeɪʃən",
+    "ph_am": "rɪˌpjudiˈeɪʃən"
+  },
+  {
+    "word_name": "tampering",
+    "word_means": [
+      "v.干预;篡改",
+      "n.干预；贿赂",
+      "tamper的现在分词"
+    ],
+    "updatetime": "2023-03-15 09:46:51",
+    "ph_en": "ˈtæmpərɪŋ",
+    "ph_am": "ˈtæmpərɪŋ"
+  },
+  {
+    "word_name": "spoofing",
+    "word_means": [
+      "欺骗;假冒;ARP欺骗;伪装;网络欺骗"
+    ],
+    "updatetime": "2023-03-15 09:46:13",
+    "ph_en": "ˈspuːfɪŋ",
+    "ph_am": "ˈspuːfɪŋ"
+  }
+]
