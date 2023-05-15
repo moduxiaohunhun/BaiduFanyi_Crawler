@@ -1,0 +1,130 @@
+[
+  {
+    "word_name": "synthesis",
+    "word_means": [
+      "n.(物质在动植物体内的)合成;综合;结合;综合体"
+    ],
+    "updatetime": "2023-05-15 10:59:56",
+    "ph_en": "ˈsɪnθəsɪs",
+    "ph_am": "ˈsɪnθəsɪs"
+  },
+  {
+    "word_name": "vanish",
+    "word_means": [
+      "v.消失;消亡;（莫名其妙地）突然消失;不复存在，绝迹;<数>变为零，等于零;使不见，使消失",
+      "n.<语>消失音"
+    ],
+    "updatetime": "2023-05-15 10:59:02",
+    "ph_en": "ˈvænɪʃ",
+    "ph_am": "ˈvænɪʃ"
+  },
+  {
+    "word_name": "unary",
+    "word_means": [
+      "adj.一元的"
+    ],
+    "updatetime": "2023-05-15 10:58:49",
+    "ph_en": "ˈjuːnəri",
+    "ph_am": "ˈjuːnəri"
+  },
+  {
+    "word_name": "binary",
+    "word_means": [
+      "adj.二进制的(用0和1记数);仅基于两个数字的;二元的;由两部分组成的",
+      "n.一双;双体;二进制数;双子星"
+    ],
+    "updatetime": "2023-05-15 10:58:40",
+    "ph_en": "ˈbaɪnəri",
+    "ph_am": "ˈbaɪnəri"
+  },
+  {
+    "word_name": "truncated",
+    "word_means": [
+      "adj.(版本)缩减的，删节的，截短了的",
+      "v.截短，缩短，删节(尤指掐头或去尾)",
+      "truncate的过去分词和过去式"
+    ],
+    "updatetime": "2023-05-15 10:56:24",
+    "ph_en": "trʌŋˈkeɪtɪd",
+    "ph_am": "ˈtrʌŋkeɪtɪd"
+  },
+  {
+    "word_name": "unleash",
+    "word_means": [
+      "vt.发泄;突然释放;使爆发"
+    ],
+    "updatetime": "2023-05-15 10:53:42",
+    "ph_en": "ʌnˈliːʃ",
+    "ph_am": "ʌnˈliːʃ"
+  },
+  {
+    "word_name": "obligation",
+    "word_means": [
+      "n.职责;责任;(已承诺的或法律等规定的)义务"
+    ],
+    "updatetime": "2023-05-15 10:52:35",
+    "ph_en": "ˌɒblɪˈɡeɪʃn",
+    "ph_am": "ˌɑːblɪˈɡeɪʃn"
+  },
+  {
+    "word_name": "oblige",
+    "word_means": [
+      "v.迫使;(以法律、义务等)强迫;(根据要求或需要)帮忙;效劳"
+    ],
+    "updatetime": "2023-05-15 10:52:27",
+    "ph_en": "əˈblaɪdʒ",
+    "ph_am": "əˈblaɪdʒ"
+  },
+  {
+    "word_name": "parallel",
+    "word_means": [
+      "adj.平行的;极相似的;同时发生的;相应的;对应的;并行的",
+      "n.(尤指不同地点或时间的)极其相似的人(或情况、事件等);相似特征;相似特点;(地球或地图的)纬线，纬圈",
+      "vt.与…相似;与…同时发生;与…媲美;比得上",
+      "adv.平行地，并列地"
+    ],
+    "updatetime": "2023-05-15 10:51:45",
+    "ph_en": "ˈpærəlel",
+    "ph_am": "ˈpærəlel"
+  },
+  {
+    "word_name": "perpendicular",
+    "word_means": [
+      "adj.垂直的;成直角的;垂直式的(英国14、15世纪盛行的建筑风格，以使用垂直线和大拱为特征)",
+      "n.垂直线(或位置、方向)"
+    ],
+    "updatetime": "2023-05-15 10:51:28",
+    "ph_en": "ˌpɜːpənˈdɪkjələ(r)",
+    "ph_am": "ˌpɜːrpənˈdɪkjələr"
+  },
+  {
+    "word_name": "comply",
+    "word_means": [
+      "vi.遵守;遵从;服从;顺从"
+    ],
+    "updatetime": "2023-05-15 10:50:41",
+    "ph_en": "kəmˈplaɪ",
+    "ph_am": "kəmˈplaɪ"
+  },
+  {
+    "word_name": "compliment",
+    "word_means": [
+      "n.恭维;称赞;赞扬;致意;问候;祝贺",
+      "vt.赞美;称赞;钦佩"
+    ],
+    "updatetime": "2023-05-15 10:50:31",
+    "ph_en": "ˈkɒmplɪmənt , ˈkɒmplɪment",
+    "ph_am": "ˈkɑːmplɪmənt , ˈkɑːmplɪment"
+  },
+  {
+    "word_name": "flip",
+    "word_means": [
+      "v.(使)快速翻转，迅速翻动;快速翻阅，浏览;勃然大怒，心烦意乱;（快速地）调频道，换台;轻抛，轻掷;按（开关）;（话题、活动或意见）突然改变，突然转换;改变，交换（位置）;突然变得热情，突然极感兴趣;为盈利而从速转卖（股份，财产）",
+      "n.轻抛，轻掷，轻击;空翻;浏览，草草翻阅;短暂旅行（或游览）;蛋奶酒",
+      "adj.无礼的，轻率的"
+    ],
+    "updatetime": "2023-05-15 10:49:52",
+    "ph_en": "flɪp",
+    "ph_am": "flɪp"
+  }
+]
