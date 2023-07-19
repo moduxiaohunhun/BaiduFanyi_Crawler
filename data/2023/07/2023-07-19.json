@@ -1,0 +1,31 @@
+[
+  {
+    "word_name": "yank",
+    "word_means": [
+      "v.猛拉;猛拽",
+      "n.突然的猛拉;急抽"
+    ],
+    "updatetime": "2023-07-19 19:18:19",
+    "ph_en": "jæŋk",
+    "ph_am": "jæŋk"
+  },
+  {
+    "word_name": "broker",
+    "word_means": [
+      "n.经纪人;掮客",
+      "vt.安排，协商(协议的细节，尤指在两国间)"
+    ],
+    "updatetime": "2023-07-19 18:01:50",
+    "ph_en": "ˈbrəʊkə(r)",
+    "ph_am": "ˈbroʊkər"
+  },
+  {
+    "word_name": "sane",
+    "word_means": [
+      "adj.理智的;清醒的;明智的;精神健全的，心智健全的;无疾病的，健康的;神志正常的;合乎情理的"
+    ],
+    "updatetime": "2023-07-19 10:18:10",
+    "ph_en": "seɪn",
+    "ph_am": "seɪn"
+  }
+]
