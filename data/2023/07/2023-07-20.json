@@ -1,0 +1,31 @@
+[
+  {
+    "word_name": "nutshell",
+    "word_means": [
+      "n.坚果壳；体形（数量）小的东西；无价值的东西",
+      "adj.简洁的；扼要的"
+    ],
+    "updatetime": "2023-07-20 15:13:24",
+    "ph_en": "ˈnʌtʃel",
+    "ph_am": "ˈnʌtʃel"
+  },
+  {
+    "word_name": "vendors",
+    "word_means": [
+      "n.小贩;(房屋等的)卖主;摊贩;(某种产品的)销售公司",
+      "vendor的复数"
+    ],
+    "updatetime": "2023-07-20 15:12:15",
+    "ph_en": "ˈvɛndɔːz",
+    "ph_am": "ˈvɛndərz"
+  },
+  {
+    "word_name": "sensor",
+    "word_means": [
+      "n.传感器;(探测光、热、压力等的)敏感元件;探测设备"
+    ],
+    "updatetime": "2023-07-20 15:07:07",
+    "ph_en": "ˈsensə(r)",
+    "ph_am": "ˈsensər"
+  }
+]
